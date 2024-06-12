@@ -11,8 +11,6 @@
 - ✍️ Currently learning Machine Learning and AI
 - 🖂 You can reach me by [email](mailto:himankguptaa@gmail.com)
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
 ## Tech Stack 🛠️
 
 [![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
@@ -39,9 +37,8 @@
 [![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
 ## Statistics 📶
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himankgupta1&show_icons=true&theme=tokyonight&rank_icon=github" alt="Himank's GitHub stats" style="width: 45%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himankgupta1&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 34%;">
@@ -49,9 +46,8 @@
   <img src="https://streak-stats.demolab.com?user=himankgupta1&theme=tokyonight" alt="GitHub Streak" style="width: 50%;">
 </div>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
 ## Let's Connect 🤝
+
 <table align="center">
   <thead align="center">
     <tr align="center">
@@ -79,5 +75,3 @@
     </tr>
   </tbody>
 </table>
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
