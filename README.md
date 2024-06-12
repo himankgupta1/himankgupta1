@@ -3,15 +3,8 @@
   <a href="https://github.com/himankgupta1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center">
-  <em>
-    This is me <b>Himank Gupta</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Vellore Insitute of Technology</b>, Vellore</a>.
-    An aspiring <b>Competitive Programmer</b>&nbsp;and <b> Artificial Intelligence Enthusiast.</b> 
-  <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
-</p>
-    
 ## :zap: About Me 👦
+
 - 👩‍💻 Final year B.Tech student at Vellore Institute of Technology, Vellore
 - 🌍 I'm based in India
 - 🚀 Interested in Data Science     
@@ -50,31 +43,41 @@
 
 ## :zap: Statistics 📈
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himankgupta1&show_icons=true&theme=dark&rank_icon=github" alt="Himank's GitHub stats" style="width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himankgupta1&layout=compact&theme=dark" alt="Top Langs" style="width: 34%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=himankgupta1&show_icons=true&theme=tokyonight&rank_icon=github" alt="Himank's GitHub stats" style="width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himankgupta1&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 34%;">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=himankgupta1&theme=burnt-neon" alt="GitHub Streak" style="width: 50%;">
+  <img src="https://streak-stats.demolab.com?user=himankgupta1&theme=tokyonight" alt="GitHub Streak" style="width: 50%;">
 </div>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## :zap: Connect With Me 🤝
+<table align="center">
+  <thead align="center">
+    <tr align="center">
+      <td align="center">💌 Social Handles</td>
+      <td align="center">🌐 Coding Handles</td>
+    </tr>
+  </thead>
 
-<div style="text-align: center;">
-  <!-- Social Handles -->
-  <div style="margin-bottom: 10px;">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/shreya-prasad-749724230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <!-- X -->
-    <a href="https://x.com/prasad_shr37791"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
-  </div>
-  <!-- Coding Handles -->
-  <div>
-    <!--Leetcode--> 
-    <a href="https://leetcode.com/u/sp12554647/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
-    <!--Kaggle--> 
-    <a href="https://www.kaggle.com/shreyaprasad21"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  </div>
-</div>
+  <tbody align="center">
+    <tr align="center">
+      <!-- Social Handles -->
+      <td align="center">
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/himank-gupta-9b0819236/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <!-- X -->
+        <a href="https://x.com/himank_guptaa"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
+      </td>
+      <!-- Coding Handles -->
+      <td align="center">
+        <!--Leetcode--> 
+        <a href="https://leetcode.com/u/himank_gupta/"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
+        <!--Kaggle--> 
+        <a href="https://www.kaggle.com/himankgupta15"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
