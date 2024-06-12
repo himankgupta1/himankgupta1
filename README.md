@@ -3,17 +3,17 @@
   <a href="https://github.com/himankgupta1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
-## :zap: About Me 👦
+## Introducing Myself 🙋‍♂️
 
 - 👩‍💻 Final year B.Tech student at Vellore Institute of Technology, Vellore
-- 🌍 I'm based in India
-- 🚀 Interested in Data Science     
-- 🧠 Currently learning Machine Learning and AI
-- ✉️ You can reach me by [email](mailto:himankguptaa@gmail.com)
+- 📍 I'm based in Delhi, India
+- 👀 Interested in Data Science     
+- ✍️ Currently learning Machine Learning and AI
+- 🖂 You can reach me by [email](mailto:himankguptaa@gmail.com)
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## :zap: Tools and Technologies 🤖
+## Tech Stack 🛠️
 
 [![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -41,7 +41,7 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## :zap: Statistics 📈
+## Statistics 📶
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himankgupta1&show_icons=true&theme=tokyonight&rank_icon=github" alt="Himank's GitHub stats" style="width: 45%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himankgupta1&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 34%;">
@@ -51,7 +51,7 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## :zap: Connect With Me 🤝
+## Let's Connect 🤝
 <table align="center">
   <thead align="center">
     <tr align="center">
