@@ -14,30 +14,9 @@
 ## :zap: About Me 👦
 - 👩‍💻 Final year B.Tech student at Vellore Institute of Technology, Vellore
 - 🌍 I'm based in India
-- 🚀 Interested in Machine Learning and AI     
-- 🧠 Currently learning Machine Learning
+- 🚀 Interested in Data Science     
+- 🧠 Currently learning Machine Learning and AI
 - ✉️ You can reach me by [email](mailto:himankguptaa@gmail.com)
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-## :zap: Connect With Me 🤝
-<div style="text-align: center;">
-  <!-- Social Handles -->
-  <div style="margin-bottom: 10px;">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/shreya-prasad-749724230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <!-- X -->
-    <a href="https://x.com/prasad_shr37791"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
-  </div>
-  <!-- Coding Handles -->
-  <div>
-    <!--Leetcode--> 
-    <a href="https://leetcode.com/u/sp12554647/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
-    <!--Kaggle--> 
-    <a href="https://www.kaggle.com/shreyaprasad21"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  </div>
-</div>
-
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -83,4 +62,22 @@
 </div>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+## :zap: Connect With Me 🤝
+<div style="text-align: center;">
+  <!-- Social Handles -->
+  <div style="margin-bottom: 10px;">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/shreya-prasad-749724230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <!-- X -->
+    <a href="https://x.com/prasad_shr37791"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
+  </div>
+  <!-- Coding Handles -->
+  <div>
+    <!--Leetcode--> 
+    <a href="https://leetcode.com/u/sp12554647/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
+    <!--Kaggle--> 
+    <a href="https://www.kaggle.com/shreyaprasad21"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  </div>
+</div>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
