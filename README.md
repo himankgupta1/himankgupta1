@@ -9,7 +9,7 @@
 - 📍 I'm based in Delhi, India
 - 👀 Interested in Data Science     
 - ✍️ Currently learning Machine Learning and AI
-- 🖂 You can reach me by [email](mailto:himankguptaa@gmail.com)
+- 📧 You can reach me by [email](mailto:himankguptaa@gmail.com)
 
 ## Tech Stack 🛠️
 
