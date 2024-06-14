@@ -7,7 +7,7 @@
 
 - 👩‍💻 Final year B.Tech student at Vellore Institute of Technology, Vellore
 - 📍 I'm based in Delhi, India
-- 👀 Interested in Data Science     
+- 👀 Interested in Data      
 - ✍️ Currently learning Machine Learning and AI
 - 📧 You can reach me by [email](mailto:himankguptaa@gmail.com)
 
