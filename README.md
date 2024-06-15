@@ -7,8 +7,8 @@
 
 - 👩‍💻 Final year B.Tech student at Vellore Institute of Technology, Vellore
 - 📍 I'm based in Delhi, India
-- 👀 Interested in Data Science   
-- ✍️ Currently learning Machine Learning and AI
+- 👀 Deeply interested in Machine Learning and Data Science   
+- 💼 Have experience working on ML and DS projects
 - 📧 You can reach me by [email](mailto:himankguptaa@gmail.com)
 
 ## Tech Stack 🛠️
