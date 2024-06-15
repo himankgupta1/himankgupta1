@@ -5,7 +5,7 @@
 
 ## Introducing Myself 🙋‍♂️
 
-- 👩‍💻 Final year B.Tech student at Vellore Institute of Technology, Vellore
+- 👩‍💻 Final year B.Tech student in Computer Science at Vellore Institute of Technology, Vellore
 - 📍 I'm based in Delhi, India
 - 👀 Deeply interested in Machine Learning and Data Science   
 - 💼 Have experience working on ML and DS projects
