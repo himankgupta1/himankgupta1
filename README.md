@@ -63,7 +63,7 @@
         <!-- X -->
         <a href="https://x.com/himank_guptaa"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
       </td>
-      <!-- Coding Handles -->
+      <!-- Coding Handles 
       <td align="center">
         <!--Leetcode--> 
         <a href="https://leetcode.com/u/himank_gupta/"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
