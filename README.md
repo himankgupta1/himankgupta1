@@ -3,7 +3,7 @@
   <a href="https://github.com/himankgupta1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Data+Scientist&center=true&width=500&height=50"></a>
 </p>
 
-
+## Introducing Myself 🙋‍♂️
 
 - 👩‍💻 Final year B.Tech student in Computer Science at Vellore Institute of Technology, Vellore
 - 📍 I'm based in Delhi, India
